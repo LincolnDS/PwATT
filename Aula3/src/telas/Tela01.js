@@ -10,7 +10,7 @@ export default function Tela01({ setTela }) {
       <View style={styles.conteudo}>
         <Text style={styles.emoji}>🟢</Text>
         <Text style={styles.titulo}>Primeira Etapa</Text>
-        <Text style={styles.descricao}>Você está na primeira tela da aplicação.</Text>
+        <Text style={styles.descricao}>Você está na primeira tela da aplicaçao.</Text>
       </View>
     </View>
   );
